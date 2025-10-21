@@ -1,0 +1,72 @@
+Common vocab has 173 words
+Unique vocab
+Coleridge_train.txt has a unique vocab of 556 words as compared with its total vocab  of  1351 words
+Eliot_train.txt has a unique vocab of 894 words as compared with its total vocab  of  1588 words
+Emily_Dickinson_train.txt has a unique vocab of 655 words as compared with its total vocab  of  1383 words
+Shakespeares_sonnets_train.txt has a unique vocab of 615 words as compared with its total vocab  of  1368 words
+EBBrowning_train.txt has a unique vocab of 523 words as compared with its total vocab  of  1370 words
+Common counts
+Coleridge_train.txt 2500 4805 0.5203
+Eliot_train.txt 2307 4297 0.5369
+Emily_Dickinson_train.txt 2200 4011 0.5485
+Shakespeares_sonnets_train.txt 2353 4427 0.5315
+EBBrowning_train.txt 2801 5221 0.5365
+The total vocab for all the books is 4571
+1 out of 1000 correct; avg ep loss on last 1000 0.0011
+242 out of 1000 correct; avg ep loss on last 1000 1.6815
+334 out of 1000 correct; avg ep loss on last 1000 1.53
+393 out of 1000 correct; avg ep loss on last 1000 1.4533
+425 out of 1000 correct; avg ep loss on last 1000 1.4024
+486 out of 1000 correct; avg ep loss on last 1000 1.2741
+526 out of 1000 correct; avg ep loss on last 1000 1.1988
+564 out of 1000 correct; avg ep loss on last 1000 1.1563
+586 out of 1000 correct; avg ep loss on last 1000 1.0828
+608 out of 1000 correct; avg ep loss on last 1000 1.0659
+602 out of 1000 correct; avg ep loss on last 1000 1.0631
+624 out of 1000 correct; avg ep loss on last 1000 1.0157
+650 out of 1000 correct; avg ep loss on last 1000 0.9656
+676 out of 1000 correct; avg ep loss on last 1000 0.945
+666 out of 1000 correct; avg ep loss on last 1000 0.9345
+670 out of 1000 correct; avg ep loss on last 1000 0.9269
+673 out of 1000 correct; avg ep loss on last 1000 0.9474
+685 out of 1000 correct; avg ep loss on last 1000 0.9106
+671 out of 1000 correct; avg ep loss on last 1000 0.9238
+639 out of 1000 correct; avg ep loss on last 1000 0.9776
+692 out of 1000 correct; avg ep loss on last 1000 0.8641
+689 out of 1000 correct; avg ep loss on last 1000 0.8446
+690 out of 1000 correct; avg ep loss on last 1000 0.9017
+653 out of 1000 correct; avg ep loss on last 1000 0.8911
+695 out of 1000 correct; avg ep loss on last 1000 0.8416
+663 out of 1000 correct; avg ep loss on last 1000 0.8959
+694 out of 1000 correct; avg ep loss on last 1000 0.8696
+716 out of 1000 correct; avg ep loss on last 1000 0.8061
+702 out of 1000 correct; avg ep loss on last 1000 0.8458
+692 out of 1000 correct; avg ep loss on last 1000 0.8597
+682 out of 1000 correct; avg ep loss on last 1000 0.8802
+681 out of 1000 correct; avg ep loss on last 1000 0.8558
+679 out of 1000 correct; avg ep loss on last 1000 0.8815
+697 out of 1000 correct; avg ep loss on last 1000 0.8593
+704 out of 1000 correct; avg ep loss on last 1000 0.8309
+686 out of 1000 correct; avg ep loss on last 1000 0.8315
+699 out of 1000 correct; avg ep loss on last 1000 0.8204
+715 out of 1000 correct; avg ep loss on last 1000 0.8224
+704 out of 1000 correct; avg ep loss on last 1000 0.8275
+698 out of 1000 correct; avg ep loss on last 1000 0.8598
+679 out of 1000 correct; avg ep loss on last 1000 0.8359
+671 out of 1000 correct; avg ep loss on last 1000 0.8896
+722 out of 1000 correct; avg ep loss on last 1000 0.7823
+690 out of 1000 correct; avg ep loss on last 1000 0.8634
+702 out of 1000 correct; avg ep loss on last 1000 0.822
+717 out of 1000 correct; avg ep loss on last 1000 0.7695
+717 out of 1000 correct; avg ep loss on last 1000 0.8063
+708 out of 1000 correct; avg ep loss on last 1000 0.7974
+703 out of 1000 correct; avg ep loss on last 1000 0.8293
+701 out of 1000 correct; avg ep loss on last 1000 0.8271
+Now testing.
+Log prob scores for each test file:
+Coleri -1500.5204 -1929.8671 -1791.892 -2220.697 -1481.0581 Best score index: 4 which is EBBrow
+Eliot_ -1819.5746 -1287.541 -1998.1006 -2363.8113 -2004.2477 Best score index: 1 which is Eliot_
+Emily_ -1287.7302 -1114.2429 -1018.4809 -1418.8488 -1186.4163 Best score index: 2 which is Emily_
+Shakes -2301.2932 -3347.4316 -2894.5317 -1035.8246 -2150.9524 Best score index: 3 which is Shakes
+EBBrow -1620.2179 -2346.9033 -2223.4299 -2185.73 -1363.4132 Best score index: 4 which is EBBrow
+
